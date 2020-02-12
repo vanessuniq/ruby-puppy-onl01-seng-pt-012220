@@ -21,8 +21,6 @@ class Dog
     @@all.clear 
   end
   
-  private
-  
   def save
     @@all << self
   end
