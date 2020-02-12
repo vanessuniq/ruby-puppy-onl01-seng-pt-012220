@@ -17,4 +17,7 @@ class Dog
     @@all.each {|dog| puts dog}
   end
   
+  def save
+    
+  end
 end
